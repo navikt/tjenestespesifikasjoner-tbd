@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/navikt/tjenestespesifikasjoner/workflows/Release%20(Github%20Package%20Registry)/badge.svg)](https://github.com/navikt/tjenestespesifikasjoner/actions?query=workflow%3A%22Release+%28Github+Package+Registry%29%22)
+[![Build Status](https://github.com/navikt/tjenestespesifikasjoner-tbd/workflows/Release%20(Github%20Package%20Registry)/badge.svg)](https://github.com/navikt/tjenestespesifikasjoner-tbd/actions?query=workflow%3A%22Release+%28Github+Package+Registry%29%22)
 
 # Tjenestespesifikasjoner
 

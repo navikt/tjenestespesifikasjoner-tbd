@@ -69,9 +69,9 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:navikt/tjenestespesifikasjoner.git</developerConnection>
-		<connection>scm:git:git@github.com:navikt/tjenestespesifikasjoner.git</connection>
-		<url>https://github.com/navikt/tjenestespesifikasjoner</url>
+		<developerConnection>scm:git:git@github.com:navikt/tjenestespesifikasjoner-tbd.git</developerConnection>
+		<connection>scm:git:git@github.com:navikt/tjenestespesifikasjoner-tbd.git</connection>
+		<url>https://github.com/navikt/tjenestespesifikasjoner-tbd</url>
 		<tag>HEAD</tag>
 	</scm>
 	<name>${project.artifactId}</name>
