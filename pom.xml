@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>no.nav.tjenestespesifikasjoner</groupId>
-    <artifactId>tjenestespesifikasjoner</artifactId>
+    <groupId>com.github.navikt</groupId>
+    <artifactId>tjenestespesifikasjoner-tbd</artifactId>
     <version>0-SNAPSHOT</version>
-    <name>tjenestespesifikasjoner</name>
+    <name>tjenestespesifikasjoner-tbd</name>
     <packaging>pom</packaging>
     <description>Generated code + WSDL, WSD, JSON schemas etc. for describing how web services communicate in NAV.</description>
     <url>https://github.com/navikt/tjenestespesifikasjoner-tbd</url>
@@ -53,7 +53,7 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>no.nav.tjenestespesifikasjoner</groupId>
+                <groupId>com.github.navikt</groupId>
                 <artifactId>jaxb-adapters</artifactId>
                 <version>${project.version}</version>
             </dependency>
@@ -160,11 +160,6 @@
                             <groupId>org.jvnet.jaxb2_commons</groupId>
                             <artifactId>jaxb2-basics</artifactId>
                             <version>${org.jvnet.jaxb2.version}</version>
-                        </dependency>
-                        <dependency>
-                            <groupId>no.nav.tjenestespesifikasjoner</groupId>
-                            <artifactId>jaxb-adapters</artifactId>
-                            <version>${project.version}</version>
                         </dependency>
                         <dependency>
                             <groupId>joda-time</groupId>
