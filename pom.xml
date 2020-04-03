@@ -42,6 +42,7 @@
     </distributionManagement>
     <modules>
         <module>avstemming-v1-tjenestespesifikasjon</module>
+        <module>nav-system-os-simuler-fp-service-tjenestespesifikasjon</module>
         <module>nav-virksomhet-oppdragsbehandling-v1-meldingsdefinisjon</module>
     </modules>
     <scm>
